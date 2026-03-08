@@ -1,6 +1,6 @@
 # New-Legacy
 
-Minecraft LCE texturepack, it brings the new textures of Minecraft java 1.21.11 to LCE
+Minecraft LCE texturepack that brings the new textures of Minecraft java 1.21.11 to LCE
 
 The in-game name of the pack is "Candy Texture Pack" and has a funny image.
 
